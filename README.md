@@ -1,13 +1,13 @@
 ## Grocery App
 
-A simple Flutter-based grocery shopping application that allows users to browse products, add them to a basket, and view their selections.
+- A simple Flutter-based grocery shopping application that allows users to browse products, add them to a basket, and view their selections.
 
 ## Features
 
-Browse categories like Fruits, Milk & Egg, Beverages, Laundry, and Vegetables.
-View a carousel of promotional banners.
-Add and remove products (e.g., Banana, Pepper, Orange) to a scrollable basket.
-Display product ratings and prices.
+- Browse categories like Fruits, Milk & Egg, Beverages, Laundry, and Vegetables.
+- View a carousel of promotional banners.
+- Add and remove products (e.g., Banana, Pepper, Orange) to a scrollable basket.
+- Display product ratings and prices.
 
 ## Getting Started
 Prerequisites
