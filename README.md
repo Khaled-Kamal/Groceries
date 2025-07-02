@@ -1,16 +1,59 @@
-# grocery_app
+Grocery App
+A simple Flutter-based grocery shopping application that allows users to browse products, add them to a basket, and view their selections.
+Features
 
-A new Flutter project.
+Browse categories such as Fruits, Milk & Egg, Beverages, Laundry, and Vegetables.
+View a carousel of promotional banners.
+Add and remove products (e.g., Banana, Pepper, Orange) to a scrollable basket.
+Display product ratings and prices.
 
-## Getting Started
+Getting Started
+Prerequisites
 
-This project is a starting point for a Flutter application.
+Flutter SDK installed (https://flutter.dev/docs/get-started/install)
+Dart SDK (included with Flutter)
+An IDE like Visual Studio Code or Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository:git clone https://github.com/your-username/grocery-app.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Navigate to the project directory:cd grocery-app
+
+
+Install dependencies:flutter pub get
+
+
+Run the app:flutter run
+
+
+
+Usage
+
+Tap the "+" icon on a product card to add it to the basket.
+The basket at the bottom displays all selected items in a scrollable list.
+Tap the "+" icon again to remove an item from the basket.
+
+Dependencies
+
+carousel_slider: For the promotional banner carousel.
+google_fonts: For custom font styling.
+svg_flutter: For SVG image support.
+
+Project Structure
+
+lib/: Contains the main Dart code.
+models/: Data models for categories and products.
+homepage.dart: Main widget and UI logic.
+
+
+
+Contributing
+Feel free to fork this repository, make improvements, and submit pull requests. Ensure you follow the existing code style and add tests if applicable.
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments
+
+Icons and images are placeholder assets; replace with your own or appropriate licenses.
+Inspired by modern grocery shopping app designs.
