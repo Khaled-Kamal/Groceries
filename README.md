@@ -1,6 +1,6 @@
 ## Grocery App
 
-- A simple Flutter-based grocery shopping application that allows users to browse products, add them to a basket, and view their selections.
+- A simple Flutter-based grocery shopping application that allows users to browse products, add them to a basket, and view their selections
  ### Review on YouTube
 
  - Link Video Project :  https://www.youtube.com/watch?v=ZPm-n6eWMQs
